@@ -1,9 +1,9 @@
 {
-  "name": "YOURAPPNAME",
-  "vendor": "vtex",
+  "name": "pixelApp",
+  "vendor": "atika",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "pixelApp",
+  "description": "pixelApp",
   "billingOptions": {
     "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
